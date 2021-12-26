@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/quEsMOrr3hmQ8/giphy.gif" align="center" width="400" height="250">
+<img src="https://media.giphy.com/media/quEsMOrr3hmQ8/giphy.gif" align="left" width="400" height="250">
 
 ### Hi there, I'm Gökhan. :blush:
 
@@ -28,7 +28,7 @@
 
 <details>
 <summary>:bulb: Most Used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goknkaya&layout=compact" align="center" width="400">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goknkaya&layout=compact" align="right" width="400">
 </details>
 
 
