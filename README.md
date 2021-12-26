@@ -4,7 +4,7 @@
 
 ## C# Developer | Computer Engineer
 
-<font color="green">I graduated Kocaeli University
+<font color="green">I graduated Kocaeli University🎓
 </font>
 
 
