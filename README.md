@@ -28,7 +28,7 @@
 
 <details>
 <summary>:bulb: Most Used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goknkaya&layout=compact" align="right" width="400">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goknkaya&layout=compact" align="left" width="400">
 </details>
 
 
