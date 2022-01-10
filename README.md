@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Gökhan. :blush:
 
-## C# Developer | Front-End and Back-End Developer | Computer Engineer
+## Web Developer | Computer Engineer | C#
 
 <font color="green">I graduated Kocaeli University🎓
 </font>
