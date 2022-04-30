@@ -1,9 +1,6 @@
 <img src="https://media.giphy.com/media/quEsMOrr3hmQ8/giphy.gif" align="left" width="400" height="250">
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
-
-
-
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 ### Hi there, I'm Gökhan. :blush:
 
