@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Gökhan. :blush:
 
-## Computer Engineer | Application Developer
+## Computer Engineer | Software Developer
 
 <font color="green">I graduated Kocaeli University🎓
 </font>
