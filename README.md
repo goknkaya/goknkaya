@@ -1,6 +1,6 @@
 <!-- Üstte GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/QUt9Mor3Jmg0P/giphy.gif" width="400" height="250">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400" height="250">
 </p>
 
 <!-- Başlık ve alt yazılar -->
