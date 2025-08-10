@@ -30,7 +30,5 @@
 <h3 align="center">Tech I use</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png" width="50">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" width="50">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" width="50">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" width="50">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" width="50">
 </p>
