@@ -4,11 +4,14 @@
   
 ### Hi there, I'm Gökhan. :blush:
 
-## Computer Engineer | Software Developer
+<p align="center">
+  ## Computer Engineer | Software Developer
+</p>
 
+<p align="center">
 <font color="green">I graduated Kocaeli University🎓
 </font>
-
+</p>
 
 ### Reach out to me
 
