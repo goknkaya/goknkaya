@@ -17,7 +17,6 @@ check out the pinned repos below.
 - 🔧 Core stack: C# · .NET · ASP.NET Core · SQL Server · REST/SOAP APIs
 - 🌱 Also working with: Java/Spring Boot, IoT (ESP32/BLE), applied ML
 - 🎓 B.Sc. Computer Engineering — Kocaeli University
-- 📫 [LinkedIn](https://linkedin.com/in/gokhankaya256) · gokhankaya256@gmail.com
 
 <br/>
 
