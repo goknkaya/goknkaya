@@ -38,19 +38,13 @@ check out the pinned repos below.
 
 </div>
 
+<br/>
+
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=goknkaya&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=goknkaya&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-
-</div>
-
-<div align="center">
+<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=goknkaya&color=2E8B57&style=flat-square&label=Profile+Views)
 
