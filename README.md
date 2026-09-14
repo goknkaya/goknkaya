@@ -23,15 +23,17 @@ check out the pinned repos below.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,mssql,java,spring,react,git,azure&theme=dark" alt="Skills" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,react,git,azure&theme=dark" alt="Skills" />
 
 </div>
+
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
 <br/>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=goknkaya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=goknkaya&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goknkaya&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 
 </div>
