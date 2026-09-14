@@ -1,3 +1,9 @@
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=2E8B57&center=true&vCenter=true&width=650&lines=.NET+Backend+Developer;Payment+Systems+%7C+Switch+%26+Clearing;3.5%2B+Years+in+Fintech+%26+Banking" alt="Typing SVG" />
+
+</div>
+
 ### Hi, I'm Gökhan 👋
 
 .NET Backend Developer focused on payment systems — card transactions, switching, clearing, and authorization.
@@ -13,9 +19,25 @@ check out the pinned repos below.
 - 🎓 B.Sc. Computer Engineering — Kocaeli University
 - 📫 [LinkedIn](https://linkedin.com/in/gokhankaya256) · gokhankaya256@gmail.com
 
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+<br/>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,mssql,java,spring,react,git,azure&theme=dark" alt="Skills" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=goknkaya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goknkaya&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+
+</div>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=goknkaya&color=2E8B57&style=flat-square&label=Profile+Views)
+
+</div>
