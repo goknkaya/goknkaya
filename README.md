@@ -23,8 +23,9 @@ check out the pinned repos below.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,react,git,azure&theme=dark" height="48" alt="Skills" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,react,git,azure,py&theme=dark" height="48" alt="Skills" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="48" alt="SQL Server" style="margin-left:8px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" height="48" alt="PostgreSQL" style="margin-left:4px" />
 
 </div>
 
