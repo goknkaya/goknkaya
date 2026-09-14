@@ -13,7 +13,8 @@ SQL Server, and SOAP/REST APIs for card payment and Mobile POS systems.
 Outside my day job, I build projects that stretch beyond my core stack —
 check out the pinned repos below.
 
-- 🏦 Currently: Software Specialist @ Türkiye Finans Katılım Bankası
+- 🎯 Open to new opportunities in payment systems & fintech
+- 🏦 Most recently: Software Specialist @ Türkiye Finans Katılım Bankası
 - 🔧 Core stack: C# · .NET · ASP.NET Core · SQL Server · REST/SOAP APIs
 - 🌱 Also working with: Java/Spring Boot, IoT (ESP32/BLE), applied ML
 - 🎓 B.Sc. Computer Engineering — Kocaeli University
