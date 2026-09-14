@@ -38,13 +38,6 @@ check out the pinned repos below.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=goknkaya&show_icons=true&theme=tokyonight&hide_border=true&cb=1" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goknkaya&layout=compact&theme=tokyonight&hide_border=true&cb=1" alt="Top Languages" height="165"/>
-
-</div>
-
-<div align="center">
-
 ![Profile Views](https://komarev.com/ghpvc/?username=goknkaya&color=2E8B57&style=flat-square&label=Profile+Views)
 
 </div>
