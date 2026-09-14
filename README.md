@@ -33,6 +33,25 @@ check out the pinned repos below.
 
 <div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gokhankaya256)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gokhankaya256@gmail.com)
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=goknkaya&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=goknkaya&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+
+</div>
+
+<div align="center">
+
 ![Profile Views](https://komarev.com/ghpvc/?username=goknkaya&color=2E8B57&style=flat-square&label=Profile+Views)
 
 </div>
